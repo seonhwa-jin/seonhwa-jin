@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seonhwa-jin
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... HTML/CSS/Javascript/jQuery
+- 🌱 I’m currently learning ... HTML/CSS/Javascript/jQuery/Figma
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ahfbd17@naver.com
 
